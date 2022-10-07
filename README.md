@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @johnson-darko
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Ruby on rails,html,css,javascript,React,Dart/flutter Android developer,sql,nodejs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m johnson-darko
+- 👀 A software developer 
+- 🌱 I am interested in both Backend and Frontensegeln using Ruby on rails,html,css,javascript,React,Dart/flutter Android developer,sql,nodejs
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me johnsondarko365@gmail.com
 
 <!---
 johnson-darko/johnson-darko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
