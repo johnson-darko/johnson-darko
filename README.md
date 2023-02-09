@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey!🕹️&fontColor=000000&animation=fadeIn&type=waving&color=gradient&height=250"/>
+</p>
+
+
 <h1 align="center">I'm Johnson</h1>
 <h3 align="center">A passionate full stack developer from Ghana.</h3>
 
