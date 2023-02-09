@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📄 **[Linkdeln](https://www.linkedin.com/in/johnson-kwabena-darko-2a4237194/)**
+- 📄 **[Linkedin](https://www.linkedin.com/in/johnson-kwabena-darko-2a4237194/)**
 
 
 <h3 align="left">Languages and Tools:</h3>
