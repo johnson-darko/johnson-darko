@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raquelciusz" target="blank"><img align="center" src="https://raw.githubusercontent.com/johnson-darko/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raquelciusz" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/raquelciusz](https://www.linkedin.com/in/johnson-kwabena-darko-2a4237194/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/johnson-darko/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Johnson Kwabena Darko" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,7 +26,7 @@
 
 ### :fire: My Stats :
 <div style="display: inline_block">
-    <img height="164em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raquelciusz&count_private=true?&bg_color=000000&text_color=FFFFFF&title_color=feaf00"></a> 	<img align="right"src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raquelciusz&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=feaf00"></a>
+    <img height="164em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=johnson-darko&count_private=true?&bg_color=000000&text_color=FFFFFF&title_color=feaf00"></a> 	<img align="right"src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raquelciusz&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=feaf00"></a>
 </div>
 
 <!---
