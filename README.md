@@ -1,28 +1,19 @@
-- 👋 Hi, I’m johnson-darko
--  A software developer 
-- 🌱 I am interested in both Backend and Frontend using Ruby on rails,html,css,javascript,React,Dart/flutter Android developer,sql,nodejs
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me johnsondarko365@gmail.com
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey!🕹️&fontColor=000000&animation=fadeIn&type=waving&color=gradient&height=250"/>
-</p>
+<h1 align="center">I'm Johnson</h1>
+<h3 align="center">A passionate full stack developer from Ghana.</h3>
 
-<h1 align="center">I'm Raquel</h1>
-<h3 align="center">A passionate full stack developer from Brazil.</h3>
+- 📍 Now I live in Düsseldorf, Germany.
 
-- 📍 Now I live in Stuttgart, Germany.
+- 📄 I started a new position as Web Developer on Contract at **[Freshkleen](https://www.freshclean.fr/)**
 
-- 📄 I started a new position as Web Developer at **[Straiv](https://straiv.io/)**
+- 🔭 I’m currently working on **A website to Connect Cleaners to Companies**, it's a a Contract project for Freshkleen .
 
-- 🔭 I’m currently working on **Food Delivery Marketplace**, it's a personal project to train my skills and improve knowledge.
+- 📫 How to reach me **[Email](johnsondarko365@gmail.com)**
 
-- 📫 How to reach me **[Email](raquel.ciusz@yahoo.com)**
-
-- 🌎 My languages **Portuguese: Native | English: Fluent | German: Basic**.
+- 🌎 My languages **English: Native | German: Intermediate**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raquelciusz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raquelciusz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raquelciusz" target="blank"><img align="center" src="https://raw.githubusercontent.com/johnson-darko/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raquelciusz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
