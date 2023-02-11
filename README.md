@@ -10,7 +10,7 @@
 
 - 📄 I started a new position as Web Developer on Contract at **[Freshkleen](https://www.freshclean.fr/)**
 
-- 🔭 I’m currently working on **A website to Connect Cleaners to Companies**, it's a a Contract project for Freshkleen .
+- 🔭 I’m currently working on **A website to Connect Cleaners to Companies**, it's  a Contract project for Freshkleen .
 
 - 📫 How to reach me **[Email](johnsondarko365@gmail.com)**
 
