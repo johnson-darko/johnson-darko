@@ -18,8 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-</article>
-      </div>
+
       <div class="program-card-width p-0 me-4 mb-md-24">
         <article class="card shadow-elevation-4 rounded-2 border-0 overflow-hidden p-2 p-md-0 mb-3 mb-md-0 h-md-100">
   <div class="row d-md-block h-100 position-relative">
@@ -40,7 +39,7 @@
       <a class="d-none d-md-inline-block btn btn-light btn-sm btn-tonic-arrow text-secondary fw-bold ms-4 mb-4 w-auto" href="/safety_app">Find Out</a>
 
   </div>
-</article>
+
 
 - 📄 **[Linkedin](https://www.linkedin.com/in/johnson-kwabena-darko-2a4237194/)**
 
