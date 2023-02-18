@@ -15,15 +15,12 @@
 - 📫 How to reach me **[Email](johnsondarko365@gmail.com)**
 
 - 🌎 My languages **English: Native | German: Intermediate**.
--
-    <div class="col-9 col-md-12">
       <div class="card-body p-0 px-md-3 pt-md-24 pb-md-32 h-100 d-flex flex-row flex-md-column align-items-center align-items-md-start">
         <h3 class="m-0 mb-md-3 base-font-family fs-15 fs-md-18 fw-bold">Safety App</h3>
 
         <p class="m-0 d-none d-md-block">A Safety app to help keeps families and friends safe and track them on live location</p>
           <a class="stretched-link" aria-label="Data Analytics" data-turbo-frame="_top" href="/safety_app"></a>
       </div>
-    </div>
 
 <h3 align="left">Connect with me:</h3>
 
