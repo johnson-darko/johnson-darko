@@ -16,6 +16,7 @@
 
 - 🌎 My languages **English: Native | German: Intermediate**.
       <p class="card-body p-0 px-md-3 pt-md-24 pb-md-32 h-100 d-flex flex-row flex-md-column align-items-center align-items-md-start">
+  <img width="76" height="76" alt="Web Development"  class="program-card-thumbnail rounded-1 rounded-md-0 object-fit-cover d-inline-block d-md-none" loading="lazy" src="https://res.cloudinary.com/orlandodarko/image/upload/v1676387878/tas9c4gmeghyf2lvjgjj.png">
         <h3 class="m-0 mb-md-3 base-font-family fs-15 fs-md-18 fw-bold">Safety App</h3>
         <p class="m-0 d-none d-md-block">A Safety app to help keeps families and friends safe and track them on live location</p>
           <a class="stretched-link" aria-label="Data Analytics" data-turbo-frame="_top" href="/safety_app"></a>
