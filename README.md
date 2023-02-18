@@ -18,6 +18,30 @@
 
 <h3 align="left">Connect with me:</h3>
 
+</article>
+      </div>
+      <div class="program-card-width p-0 me-4 mb-md-24">
+        <article class="card shadow-elevation-4 rounded-2 border-0 overflow-hidden p-2 p-md-0 mb-3 mb-md-0 h-md-100">
+  <div class="row d-md-block h-100 position-relative">
+    <div class="col-3 col-sm-2 col-md-12">
+
+        <img width="76" height="76" alt="Web Development"  class="program-card-thumbnail rounded-1 rounded-md-0 object-fit-cover d-inline-block d-md-none" loading="lazy" src="https://res.cloudinary.com/orlandodarko/image/upload/v1676387878/tas9c4gmeghyf2lvjgjj.png">
+
+        <img width="312" height="204" alt="Web Development"   class="program-card-thumbnail rounded-1 rounded-md-0 object-fit-cover d-none d-md-inline-block" loading="lazy" src="https://res.cloudinary.com/orlandodarko/image/upload/v1676387878/tas9c4gmeghyf2lvjgjj.png">
+    </div>
+    <div class="col-9 col-md-12">
+      <div class="card-body p-0 px-md-3 pt-md-24 pb-md-32 h-100 d-flex flex-row flex-md-column align-items-center align-items-md-start">
+        <h3 class="m-0 mb-md-3 base-font-family fs-15 fs-md-18 fw-bold">Safety App</h3>
+
+        <p class="m-0 d-none d-md-block">A Safety app to help keeps families and friends safe and track them on live location</p>
+          <a class="stretched-link" aria-label="Data Analytics" data-turbo-frame="_top" href="/safety_app"></a>
+      </div>
+    </div>
+      <a class="d-none d-md-inline-block btn btn-light btn-sm btn-tonic-arrow text-secondary fw-bold ms-4 mb-4 w-auto" href="/safety_app">Find Out</a>
+
+  </div>
+</article>
+
 - 📄 **[Linkedin](https://www.linkedin.com/in/johnson-kwabena-darko-2a4237194/)**
 
 
