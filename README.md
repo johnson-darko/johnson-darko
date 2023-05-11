@@ -8,7 +8,6 @@
 
 - 📍 Now I live in Düsseldorf, Germany.
 
-- 📄 I started a new position as Web Developer on Contract at **[Freshkleen](https://www.freshclean.fr/)**
 
 - 🔭 I’m currently working on **A website to Connect Cleaners to Companies**, it's  a Contract project for Freshkleen .
 
